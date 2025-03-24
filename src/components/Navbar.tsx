@@ -18,8 +18,8 @@ export default function Navbar() {
 
   const navLinks = [
     { path: '/', label: 'Inicio' },
-    { path: '/restaurants', label: 'Restaurants' },
-    { path: '/orders', label: 'My Orders' },
+    { path: '/Restaurants', label: 'Cardápio' },
+    { path: '/orders', label: 'Meus Pedidos' },
   ];
 
   return (
