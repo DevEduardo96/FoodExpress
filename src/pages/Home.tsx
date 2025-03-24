@@ -36,10 +36,10 @@ export default function Home() {
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-full flex items-center">
           <div className="text-white">
             <h1 className="text-4xl md:text-6xl font-bold mb-6">
-              Delicious Food<br />Delivered to Your Door
+            Comida Deliciosa<br />Entregue à Sua Porta
             </h1>
             <p className="text-xl mb-8 max-w-2xl">
-              Order from your favorite restaurants and get food delivered right to your doorstep.
+            Encomende de seus restaurantes favoritos e receba comida diretamente à sua porta.
             </p>
             <Link
               to="/restaurants"
@@ -55,7 +55,7 @@ export default function Home() {
       {/* Features Section */}
       <div className="py-16 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-3xl font-bold text-center mb-12">Why Choose FoodExpress?</h2>
+          <h2 className="text-3xl font-bold text-center mb-12">Por que escolher o FoodExpress?</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {features.map((feature, index) => (
               <div key={index} className="bg-white rounded-lg shadow-md overflow-hidden">
