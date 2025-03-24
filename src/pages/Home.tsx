@@ -7,7 +7,7 @@ export default function Home() {
     {
       title: "Fast Delivery",
       description: "Get your food delivered in 30 minutes or less",
-      image: "https://images.unsplash.com/photo-1621510456681-2330135ff585?auto=format&fit=crop&w=800&q=80"
+      image: "https://img.freepik.com/vetores-gratis/na-ilustracao-do-conceito-de-caminho_114360-1191.jpg?uid=R125901225&ga=GA1.1.1334026649.1742786891&semt=ais_hybrid"
     },
     {
       title: "Local Restaurants",
