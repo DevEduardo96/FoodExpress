@@ -17,7 +17,7 @@ export default function Navbar() {
   const totalItems = items.reduce((sum, item) => sum + item.quantity, 0);
 
   const navLinks = [
-    { path: '/', label: 'Home' },
+    { path: '/', label: 'Inicio' },
     { path: '/restaurants', label: 'Restaurants' },
     { path: '/orders', label: 'My Orders' },
   ];

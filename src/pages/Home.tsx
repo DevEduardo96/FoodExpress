@@ -45,7 +45,7 @@ export default function Home() {
               to="/restaurants"
               className="inline-flex items-center px-6 py-3 text-lg font-medium rounded-full bg-orange-600 hover:bg-orange-700 transition-colors"
             >
-              Order Now
+              Novo Pedido
               <ArrowRight className="ml-2" size={20} />
             </Link>
           </div>
